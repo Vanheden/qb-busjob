@@ -13,7 +13,7 @@ local Translations = {
         goto_busstop = 'Åk till en hållplats',
         busstop_text = '[E] Stoppa Bussen',
         bus_plate = 'BUSS', -- Can be 3 or 4 characters long (uses random 4 digits)
-        bus_depot = 'Buss Depå',
+        bus_depot = 'Buss Station',
         bus_stop_work = '[E] Sluta Jobba',
         bus_job_vehicles = '[E] Jobb Fordon'
     },
