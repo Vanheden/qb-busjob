@@ -9,7 +9,7 @@ local Translations = {
         dropped_off = 'En person släpptes av',
     },
     info = {
-        bus = 'Standard Bus',
+        bus = 'Standard Buss',
         goto_busstop = 'Åk till en hållplats',
         busstop_text = '[E] Stoppa Bussen',
         bus_plate = 'BUSS', -- Can be 3 or 4 characters long (uses random 4 digits)
